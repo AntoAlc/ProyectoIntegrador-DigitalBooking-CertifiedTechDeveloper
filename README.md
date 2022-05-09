@@ -1,7 +1,6 @@
 # ProyectoIntegrador-DigitalBooking-CertifiedTechDeveloper
-Proyecto Integrador CertifiedTechDeveloper: Digital Booking
 
-[Digital Booking](http://digitalbooking.one), _sentite como en tu hogar_
+# ![LogoDigitalBooking](http://digitalbooking.one/static/media/logo%201.0ac47473.svg)  [Digital Booking](http://digitalbooking.one), _sentite como en tu hogar_
 
 *Digital Booking es una empresa de alquiler de casas, departamentos, habitaciones privadas y alojamientos en general, para toda persona que desee viajar y sentirse como en su hogar*. En busca de un despegue comercial de impacto, la empresa se propuso lanzar su página web de reservas online disponible 24/7.
 
